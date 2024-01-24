@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:edfapg_sample/actions/capture_page.dart';
 import 'package:edfapg_sample/actions/get_transaction_detail_page.dart';
 import 'package:edfapg_sample/actions/sale_page.dart';
-import 'package:edfapg_sample/credential.dart';
+import 'package:edfapg_sample/credentials.dart';
 import 'package:edfapg_sample/transaction-storage.dart';
 import 'package:edfapg_sdk/edfapg_sdk.dart';
 import 'package:flutter/material.dart';
@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'ExpressPaySDK',
+      title: 'EdfaPaySDK',
       theme: ThemeData(
         primarySwatch: MaterialColor(primaryColor.value, swatch),
       ),
