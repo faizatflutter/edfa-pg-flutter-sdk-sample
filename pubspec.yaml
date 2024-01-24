@@ -50,7 +50,7 @@ dependencies:
 
 #  edfapg_sdk: any
   edfapg_sdk:
-    path: ../edfapay-pg-flutter-sdk.git
+    path: /Users/faizhashmi/Development/Projects/MyProjects/EdfaPay/edfa-pg-flutter-sdk
 
 
   # The following adds the Cupertino Icons font to your application.
