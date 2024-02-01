@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.expresspay.sample.expresspay_sample">
+    package="com.edfapay.sample.edfapay_sample">
    <application
-        android:label="expresspay_sample"
+        android:label="edfapay_sample"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
